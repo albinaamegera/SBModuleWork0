@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "ThreadsLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/ThreadsLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ThreadsLibrary.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "ThreadsLibrary/1.0.0": {
-      "type": "project",
-      "path": "../ThreadsLibrary/ThreadsLibrary.csproj",
-      "msbuildProject": "../ThreadsLibrary/ThreadsLibrary.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "ThreadsLibrary >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\Albina\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Albina\\Documents\\GitHub\\SBModuleWork0\\Threads\\Threads\\Threads.csproj",
-      "projectName": "Threads",
-      "projectPath": "C:\\Users\\Albina\\Documents\\GitHub\\SBModuleWork0\\Threads\\Threads\\Threads.csproj",
+      "projectUniqueName": "C:\\Users\\Albina\\Documents\\GitHub\\SBModuleWork0\\Threads\\ThreadsLibrary\\ThreadsLibrary.csproj",
+      "projectName": "ThreadsLibrary",
+      "projectPath": "C:\\Users\\Albina\\Documents\\GitHub\\SBModuleWork0\\Threads\\ThreadsLibrary\\ThreadsLibrary.csproj",
       "packagesPath": "C:\\Users\\Albina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Albina\\Documents\\GitHub\\SBModuleWork0\\Threads\\Threads\\obj\\",
+      "outputPath": "C:\\Users\\Albina\\Documents\\GitHub\\SBModuleWork0\\Threads\\ThreadsLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,11 +38,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\Albina\\Documents\\GitHub\\SBModuleWork0\\Threads\\ThreadsLibrary\\ThreadsLibrary.csproj": {
-              "projectPath": "C:\\Users\\Albina\\Documents\\GitHub\\SBModuleWork0\\Threads\\ThreadsLibrary\\ThreadsLibrary.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

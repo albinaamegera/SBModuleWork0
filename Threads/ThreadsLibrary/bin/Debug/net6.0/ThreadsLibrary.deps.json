@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Threads/1.0.0": {
-        "dependencies": {
-          "ThreadsLibrary": "1.0.0"
-        },
-        "runtime": {
-          "Threads.dll": {}
-        }
-      },
       "ThreadsLibrary/1.0.0": {
         "runtime": {
           "ThreadsLibrary.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "Threads/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "ThreadsLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,

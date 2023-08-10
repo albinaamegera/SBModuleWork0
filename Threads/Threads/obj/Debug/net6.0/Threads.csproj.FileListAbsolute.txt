@@ -13,3 +13,6 @@ C:\Users\Albina\Documents\GitHub\SBModuleWork0\Threads\Threads\obj\Debug\net6.0\
 C:\Users\Albina\Documents\GitHub\SBModuleWork0\Threads\Threads\obj\Debug\net6.0\Threads.pdb
 C:\Users\Albina\Documents\GitHub\SBModuleWork0\Threads\Threads\obj\Debug\net6.0\Threads.genruntimeconfig.cache
 C:\Users\Albina\Documents\GitHub\SBModuleWork0\Threads\Threads\obj\Debug\net6.0\ref\Threads.dll
+C:\Users\Albina\Documents\GitHub\SBModuleWork0\Threads\Threads\bin\Debug\net6.0\ThreadsLibrary.dll
+C:\Users\Albina\Documents\GitHub\SBModuleWork0\Threads\Threads\bin\Debug\net6.0\ThreadsLibrary.pdb
+C:\Users\Albina\Documents\GitHub\SBModuleWork0\Threads\Threads\obj\Debug\net6.0\Threads.csproj.CopyComplete

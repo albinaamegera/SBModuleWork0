@@ -1,0 +1,12 @@
+C:\Users\Albina\Documents\GitHub\SBModuleWork0\Threads\ThreadsLibrary\bin\Debug\net6.0\ThreadsLibrary.deps.json
+C:\Users\Albina\Documents\GitHub\SBModuleWork0\Threads\ThreadsLibrary\bin\Debug\net6.0\ThreadsLibrary.dll
+C:\Users\Albina\Documents\GitHub\SBModuleWork0\Threads\ThreadsLibrary\bin\Debug\net6.0\ThreadsLibrary.pdb
+C:\Users\Albina\Documents\GitHub\SBModuleWork0\Threads\ThreadsLibrary\obj\Debug\net6.0\ThreadsLibrary.csproj.AssemblyReference.cache
+C:\Users\Albina\Documents\GitHub\SBModuleWork0\Threads\ThreadsLibrary\obj\Debug\net6.0\ThreadsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Albina\Documents\GitHub\SBModuleWork0\Threads\ThreadsLibrary\obj\Debug\net6.0\ThreadsLibrary.AssemblyInfoInputs.cache
+C:\Users\Albina\Documents\GitHub\SBModuleWork0\Threads\ThreadsLibrary\obj\Debug\net6.0\ThreadsLibrary.AssemblyInfo.cs
+C:\Users\Albina\Documents\GitHub\SBModuleWork0\Threads\ThreadsLibrary\obj\Debug\net6.0\ThreadsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Albina\Documents\GitHub\SBModuleWork0\Threads\ThreadsLibrary\obj\Debug\net6.0\ThreadsLibrary.dll
+C:\Users\Albina\Documents\GitHub\SBModuleWork0\Threads\ThreadsLibrary\obj\Debug\net6.0\refint\ThreadsLibrary.dll
+C:\Users\Albina\Documents\GitHub\SBModuleWork0\Threads\ThreadsLibrary\obj\Debug\net6.0\ThreadsLibrary.pdb
+C:\Users\Albina\Documents\GitHub\SBModuleWork0\Threads\ThreadsLibrary\obj\Debug\net6.0\ref\ThreadsLibrary.dll
